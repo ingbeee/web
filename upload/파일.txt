@@ -1,4 +1,0 @@
-파일
-파파이이
-파파파삼삼삼
-sudo chmod 777 upload
